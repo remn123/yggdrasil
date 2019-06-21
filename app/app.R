@@ -1,0 +1,4 @@
+
+library(shinyBS)
+
+help(shinyBS)
